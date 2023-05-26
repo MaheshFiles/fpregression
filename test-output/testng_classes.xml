@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.flipkart.men.tcs.FpMenTest2"/>
+      <class name="com.flipkart.men.tcs.FpMenTest3"/>
+      <class name="com.flipkart.men.tcs.FpMenTest4"/>
+      <class name="com.flipkart.men.tcs.FpMenTest5"/>
+      <class name="com.flipkart.men.tcs.FpMenTest1"/>
+      <class name="com.flipkart.women.tcs.FpWomenTest1"/>
+      <class name="com.flipkart.women.tcs.FpWomenTest2"/>
+      <class name="com.flipkart.women.tcs.FpWomenTest3"/>
+      <class name="com.flipkart.women.tcs.FpWomenTest4"/>
+      <class name="com.flipkart.women.tcs.FpWomenTest5"/>
+      <class name="com.flipkart.kids.tcs.FpKidsTest1"/>
+      <class name="com.flipkart.kids.tcs.FpKidsTest2"/>
+      <class name="com.flipkart.kids.tcs.FpKidsTest3"/>
+      <class name="com.flipkart.kids.tcs.FpKidsTest4"/>
+      <class name="com.flipkart.kids.tcs.FpKidsTest5"/>
+      <class name="com.flipkart.kids.tcs.FpKidsTest6"/>
+      <class name="com.flipkart.kids.tcs.FpKidsTest7"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

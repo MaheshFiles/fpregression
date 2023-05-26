@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="res" value="JOB"></parameter>
+		<parameter name="practHrs" value="6"></parameter>
+  <test thread-count="5" name="Test">
+	  <classes>
+		  <class name="com.mahesh.automation.seleniumcore.ParametersDemo"></class>
+	  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-05T14:06:58 IST" name="Default suite" finished-at="2023-05-05T14:06:58 IST" duration-ms="149">
+    <groups>
+    </groups>
+    <test started-at="2023-05-05T14:06:58 IST" name="Default test" finished-at="2023-05-05T14:06:58 IST" duration-ms="149">
+      <class name="com.mahesh.automation.seleniumcore.ParametersDemo">
+        <test-method signature="hardwork(java.lang.String,java.lang.String)[pri:0, instance:com.mahesh.automation.seleniumcore.ParametersDemo@29647f75]" started-at="2023-05-05T14:06:58 IST" name="hardwork" finished-at="2023-05-05T14:06:58 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JOB IS MUST]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hardwork -->
+        <test-method signature="hardwork(java.lang.String,java.lang.String)[pri:0, instance:com.mahesh.automation.seleniumcore.ParametersDemo@29647f75]" started-at="2023-05-05T14:06:58 IST" name="hardwork" finished-at="2023-05-05T14:06:58 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JOB IS MUST]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hardwork -->
+        <test-method signature="hardwork(java.lang.String,java.lang.String)[pri:0, instance:com.mahesh.automation.seleniumcore.ParametersDemo@29647f75]" started-at="2023-05-05T14:06:58 IST" name="hardwork" finished-at="2023-05-05T14:06:58 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JOB IS MUST]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hardwork -->
+        <test-method signature="hardwork(java.lang.String,java.lang.String)[pri:0, instance:com.mahesh.automation.seleniumcore.ParametersDemo@29647f75]" started-at="2023-05-05T14:06:58 IST" name="hardwork" finished-at="2023-05-05T14:06:58 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JOB IS MUST]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hardwork -->
+        <test-method signature="hardwork(java.lang.String,java.lang.String)[pri:0, instance:com.mahesh.automation.seleniumcore.ParametersDemo@29647f75]" started-at="2023-05-05T14:06:58 IST" name="hardwork" finished-at="2023-05-05T14:06:58 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JOB IS MUST]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hardwork -->
+      </class> <!-- com.mahesh.automation.seleniumcore.ParametersDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
